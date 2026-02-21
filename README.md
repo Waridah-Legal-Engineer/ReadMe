@@ -23,9 +23,4 @@ Hello there 👋 <br>Legal Engineer | AI Governance & Alignment | Global Regulat
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app?user=waridah-analytics-visualization&theme=sea-dark)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api?username=waridah-analytics-visualization&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waridah-analytics-visualization&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
